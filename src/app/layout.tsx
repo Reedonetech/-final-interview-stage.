@@ -1,5 +1,5 @@
+'use client';
 import { Navbar } from '@/components/Navbar';
-// import tailwind from 'tailwindcss';
 import './globals.css';
 import { ReactQueryProvider } from './QueryClientProvider';
 

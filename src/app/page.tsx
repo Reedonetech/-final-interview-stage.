@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
           <Link href="/login">
-            <Button>Login</Button>
+            <Button className="cursor-pointer">Login</Button>
           </Link>
         </div>
       </div>
